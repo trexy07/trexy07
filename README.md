@@ -77,7 +77,7 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/trexy07/trexy07/output/snake.svg" alt="Snake animation" />
 <picture>
