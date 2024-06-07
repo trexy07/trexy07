@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is trevin and I'm a heckin nerd, from ur mom's house</h2>
+<h2 align="left">Hi 👋! My name is Trevin and I'm a nerd</h2>
 
 ###
 
